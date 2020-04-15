@@ -1,4 +1,4 @@
-# LoginWebServletCookies
+# Session Management in Java – Cookies
 
 Following Java Web Application Tutorial https://www.journaldev.com/1854/java-web-application-tutorial-for-beginners
 
